@@ -1,0 +1,52 @@
+{
+  "widgets": [
+    {
+      "name": "lower-third",
+      "displayName": "Lower Third",
+      "description": "A name and title banner that wipes in from the left. Can hide itself after a few seconds.",
+      "category": "talk",
+      "version": "1.0.0",
+      "preview": "previews/lower-third.png",
+      "zip": "widgets/lower-third-1.0.0.zip",
+      "sha256": "392948b731413b833fa86f14d2002c0167982982dc03fa0c08fb64523e555116",
+      "author": "GfxAoVivo",
+      "official": true
+    },
+    {
+      "name": "scoreboard",
+      "displayName": "Scoreboard",
+      "description": "A home/away score bug in the top-left corner with optional team names.",
+      "category": "sports",
+      "version": "1.0.0",
+      "preview": "previews/scoreboard.png",
+      "zip": "widgets/scoreboard-1.0.0.zip",
+      "sha256": "f30244782857ef33f27f2711ba5bf7cbe96fa3409efe89ac0deb289be8c38053",
+      "author": "GfxAoVivo",
+      "official": true
+    },
+    {
+      "name": "timer",
+      "displayName": "Countdown Timer",
+      "description": "A countdown clock in the top-right corner. Pulses amber in the last 10 seconds and turns red at zero.",
+      "category": "general",
+      "version": "1.0.0",
+      "preview": "previews/timer.png",
+      "zip": "widgets/timer-1.0.0.zip",
+      "sha256": "ca13bb45ec94cd11c315dea84c1ebdc7a0d209fb949fe5b7b1a800bb50bea5d9",
+      "author": "GfxAoVivo",
+      "official": true
+    },
+    {
+      "name": "ticker",
+      "displayName": "Ticker",
+      "description": "A news bar along the bottom that scrolls through a queue of messages.",
+      "category": "news",
+      "version": "1.0.0",
+      "preview": "previews/ticker.png",
+      "zip": "widgets/ticker-1.0.0.zip",
+      "sha256": "edf8029b945404f4983fc1aebd6fd6ff9ed9f33cdbf6787c9506c76adac7fd6b",
+      "author": "GfxAoVivo",
+      "official": true
+    }
+  ]
+}
